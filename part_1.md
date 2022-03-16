@@ -122,5 +122,5 @@ print(ball.get_wool()) # black
 `copy()`
 
 <p align="center">
-    <img src="assets/images/part_1_1.png" width="200" />
-</p>>
+    <img src="assets/images/part_1_1.png" width="400" />
+</p>
